@@ -30,3 +30,9 @@
 # LANGKAH 9
 # Menambahkan style pada form agar tampilan lebih menarik menggunakan CSS
 #![9](https://user-images.githubusercontent.com/56618988/160283863-969ea2d9-05d8-4a02-ba3a-dc65ba53be43.jpg)
+# Pertanyaan dan Tugas  
+# Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+# Membuat Dropdown Menu
+#![10](https://user-images.githubusercontent.com/56618988/160285539-59c88b48-3c0b-4150-8b1f-661d010edfed.jpg)
+# Membuat Listbox dengan multiple selection
+#![11](https://user-images.githubusercontent.com/56618988/160285546-dc2a9ac0-b8b8-44c1-9759-40d715cd240c.jpg)
